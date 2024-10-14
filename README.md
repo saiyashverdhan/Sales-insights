@@ -23,7 +23,7 @@ This project aims to address these challenges by developing an interactive and d
 
 - Profit % by Market: This is pure profit of each market, i.e., profit margin (selling price - cost price) divided by revenue of the market.  
 
-        Profit contribution % is also driven by sales qty, so Delhi comtributes to half the
+        Profit contribution % is also driven by sales qty, so Delhi contributes to half the
         total profit margin but falls behind in profit made per unit level.
 - Profit Margin Table: A detailed table showing customer-level revenue, profit margin contribution, and profit margin percentages.
 
