@@ -1,7 +1,5 @@
 # Sales Dashboard | AtliQ Hardware | Power BI,SQL
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/groups/me/reports/92f24de8-ba59-4f43-a380-4f3ca906f3da?ctid=7c21bd5f-12e7-4869-9a23-9ad39d684f76&pbi_source=linkShare&bookmarkGuid=676fb95d-3887-42c5-926d-baac7119a181)
-
 ## Problem Statement
 
 AtliQ Hardware, a leading computer hardware and peripherals manufacturer headquartered in Delhi, India, has been facing challenges in monitoring sales performance across its regional offices. The Sales Director at the headquarters currently relies on fragmented reports from regional sales managers, who often provide incomplete or overly optimistic insights through multiple Excel files. Despite these reports, overall sales have been on a decline, and the Sales Director struggles to track detailed performance metrics across different markets.
